@@ -101,3 +101,10 @@
   align-items:center;
   gap:0.5rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .qualification__sections {
+    display: block; 
+    padding: 0 20px; 
+  }
+}

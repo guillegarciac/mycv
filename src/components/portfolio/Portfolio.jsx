@@ -3,15 +3,16 @@ import './Portfolio.css';
 import atmineapp from '../../assets/atmineapp.jpg';
 import devaultapp from '../../assets/devaultapp.jpg';
 import supercharge from '../../assets/supercharge.jpg';
+import playground from '../../assets/playground.jpg';
 
 
 const Portfolio = () => {
   const projects = [
     {
-      name: "atmine-app",
+      name: "atmine-app (mobile only)",
       url: "https://atmine-app.netlify.app/",
       image: atmineapp,
-      description: "Launched a venue rental marketplace that connects clients with venue managers, making it easy for everyone to book events. Mobile only"
+      description: "Launched a venue rental marketplace that connects clients with venue managers, making it easy for everyone to book events."
     },
     {
       name: "devault-app",
@@ -26,10 +27,10 @@ const Portfolio = () => {
       description: "Breaking down exactly how integrations work and the role they play in the hospitality world - through APIs to help hoteliers work more efficiently through seamless technology solutions. "
     },
     {
-      name: "Project 4",
-      url: "https://link-to-project4.com",
-      image: "path-to-image4.jpg",
-      description: "Description of Project 4."
+      name: "Multi Tenant Backoffice (wip)",
+      url: "https://backoffice-umber.vercel.app/",
+      image: playground,
+      description: "NextJs Cutting-edge multi-tenant application designed to create unique guest experiences for hotel guests"
     }
   ];
 
