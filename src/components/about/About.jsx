@@ -17,7 +17,8 @@ const About = () => {
 
     // Cleanup the interval on component unmount
     return () => clearInterval(timer);
-  }, []); // Empty dependency array ensures this effect runs only once after initial render
+
+  }, [images.length]); // Include images.length in the dependency array
 
   return (
     <section id="about">

@@ -6,7 +6,7 @@ const ContactOption = ({Icon, title, subtitle, cta, action}) => {
       <Icon className="contact__option-icon"/>
       <h4>{title}</h4>
       <h5>{subtitle}</h5>
-      <a href={action} target="_blank">{cta}</a>
+      <a href={action} target="_blank" rel="noopener noreferrer">{cta}</a>
       
     </article>
   )

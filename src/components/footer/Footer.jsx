@@ -4,9 +4,7 @@ import FooterSocials from "./FooterSocials";
 
 const Footer = (props) => {
   return (
-    <footer>
-      <button className="footer__logo">GUILLE GARCÍA</button>
-      
+    <footer>      
       <ul className="permalinks">
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
