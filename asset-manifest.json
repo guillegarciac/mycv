@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/mycv/static/css/main.d0985261.css",
-    "main.js": "/mycv/static/js/main.1121751e.js",
+    "main.css": "/mycv/static/css/main.34254df2.css",
+    "main.js": "/mycv/static/js/main.12e67dd7.js",
+    "static/media/supercharge.jpg": "/mycv/static/media/supercharge.af4670e0aaac612cecd5.jpg",
+    "static/media/atmineapp.jpg": "/mycv/static/media/atmineapp.f46a0b792e130197bcb0.jpg",
     "static/media/profilepicture-3.jpg": "/mycv/static/media/profilepicture-3.ead96433c72b17b3a855.jpg",
     "static/media/profilepicturenobg.png": "/mycv/static/media/profilepicturenobg.25fda832a1acab974a0f.png",
     "static/media/cv.pdf": "/mycv/static/media/cv.667d0301a2628c29f3b4.pdf",
+    "static/media/devaultapp.jpg": "/mycv/static/media/devaultapp.fee64143400b12175751.jpg",
     "static/media/profilepicture-1.jpg": "/mycv/static/media/profilepicture-1.7a138926247b77262f7f.jpg",
     "static/media/profilepicture-2.jpg": "/mycv/static/media/profilepicture-2.ec95145afd8127e3f916.jpg",
     "index.html": "/mycv/index.html",
-    "main.d0985261.css.map": "/mycv/static/css/main.d0985261.css.map",
-    "main.1121751e.js.map": "/mycv/static/js/main.1121751e.js.map"
+    "main.34254df2.css.map": "/mycv/static/css/main.34254df2.css.map",
+    "main.12e67dd7.js.map": "/mycv/static/js/main.12e67dd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0985261.css",
-    "static/js/main.1121751e.js"
+    "static/css/main.34254df2.css",
+    "static/js/main.12e67dd7.js"
   ]
 }
