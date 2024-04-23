@@ -12,10 +12,10 @@ const Portfolio = () => {
       name: "atmine-app (mobile only)",
       url: "https://atmine-app.netlify.app/",
       image: atmineapp,
-      description: "Launched a venue rental marketplace that connects clients with venue managers, making it easy for everyone to book events."
+      description: "ReactJs venue rental marketplace that connects clients with venue managers, making it easy for everyone to book events."
     },
     {
-      name: "devault-app",
+      name: "devault-app (responsive)",
       url: "https://devault-app.fly.dev/",
       image: devaultapp,
       description: "Launched this project to help developers, designers and productmanagers keeping their tools in one place while being able to discover and share with the community."
@@ -28,7 +28,7 @@ const Portfolio = () => {
     },
     {
       name: "Multi Tenant Backoffice (wip)",
-      url: "https://backoffice-umber.vercel.app/",
+      url: "https://backoffice-git-dev-guillegarciacs-projects.vercel.app",
       image: playground,
       description: "NextJs Cutting-edge multi-tenant application designed to create unique guest experiences for hotel guests"
     }
