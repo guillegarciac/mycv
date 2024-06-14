@@ -4,6 +4,8 @@ import atmineapp from '../../assets/atmineapp.jpg';
 import devaultapp from '../../assets/devaultapp.jpg';
 import supercharge from '../../assets/supercharge.jpg';
 import playground from '../../assets/playground.jpg';
+import tremendo from '../../assets/tremendo.jpg';
+import hotelspeaker from '../../assets/hotelspeaker.jpg';
 
 
 const Portfolio = () => {
@@ -31,6 +33,18 @@ const Portfolio = () => {
       url: "https://backoffice-git-dev-guillegarciacs-projects.vercel.app",
       image: playground,
       description: "NextJs Cutting-edge multi-tenant application designed to create unique guest experiences for hotel guests"
+    },
+    {
+      name: "Tremendo Bar Sant Cugat",
+      url: "https://tremendo-bar.vercel.app",
+      image: tremendo,
+      description: "React TailwindCSS Website for a local bar in Sant Cugat, Barcelona"
+    },
+    {
+      name: "AI Review Response Service",
+      url: "https://hotelspeaker.vercel.app",
+      image: hotelspeaker,
+      description: "NextJs application that helps hoteliers respond to reviews in a more efficient way. Model trained by Hotelspeaker."
     }
   ];
 
