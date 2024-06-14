@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/mycv/static/css/main.a145f3cb.css",
-    "main.js": "/mycv/static/js/main.d5d1c721.js",
+    "main.js": "/mycv/static/js/main.9a69b620.js",
+    "static/media/tremendo.jpg": "/mycv/static/media/tremendo.35476a806ceaae9f867a.jpg",
     "static/media/supercharge.jpg": "/mycv/static/media/supercharge.af4670e0aaac612cecd5.jpg",
     "static/media/atmineapp.jpg": "/mycv/static/media/atmineapp.f46a0b792e130197bcb0.jpg",
     "static/media/profilepicture-3.jpg": "/mycv/static/media/profilepicture-3.ead96433c72b17b3a855.jpg",
@@ -11,12 +12,13 @@
     "static/media/profilepicture-1.jpg": "/mycv/static/media/profilepicture-1.7a138926247b77262f7f.jpg",
     "static/media/profilepicture-2.jpg": "/mycv/static/media/profilepicture-2.ec95145afd8127e3f916.jpg",
     "static/media/playground.jpg": "/mycv/static/media/playground.9f41b531a6f647ff8fdc.jpg",
+    "static/media/hotelspeaker.jpg": "/mycv/static/media/hotelspeaker.8514dfb945c24e35c291.jpg",
     "index.html": "/mycv/index.html",
     "main.a145f3cb.css.map": "/mycv/static/css/main.a145f3cb.css.map",
-    "main.d5d1c721.js.map": "/mycv/static/js/main.d5d1c721.js.map"
+    "main.9a69b620.js.map": "/mycv/static/js/main.9a69b620.js.map"
   },
   "entrypoints": [
     "static/css/main.a145f3cb.css",
-    "static/js/main.d5d1c721.js"
+    "static/js/main.9a69b620.js"
   ]
 }
