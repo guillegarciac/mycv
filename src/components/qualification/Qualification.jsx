@@ -93,7 +93,7 @@ const Qualification = () => {
                 </span>
                 <div className="qualification__calendar">
                   <HiOutlineCalendar className="qualification__calendar-icon" />
-                  2024
+                  Studying 2024
                 </div>
               </div>
             </div>
