@@ -70,6 +70,26 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">
+                   Microservices with Node JS and React, Docker and Kubernetes
+                </h3>
+                <span className="qualification__subtitle">
+                  Amazon Web Services
+                </span>
+                <div className="qualification__calendar">
+                  <HiOutlineCalendar className="qualification__calendar-icon" />
+                  Studying 2024
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">
                   Certified Cloud Practitioner CLF-C02
                 </h3>
                 <span className="qualification__subtitle">
