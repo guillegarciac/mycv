@@ -173,7 +173,7 @@ const Qualification = () => {
             </div>
 
             <a
-              href="https://www.linkedin.com/in/guilletheproductmanager/overlay/50981034/single-media-viewer/?profileId=ACoAAA5torYBowPQtRvPN92L4thaj9hkqDLDtIU"
+              href="https://www.linkedin.com/in/guilletheproductmanager/overlay/50981034/single-media-viewer/"
               target="_blank"
               rel="noopener noreferrer"
               className="qualification__link"
