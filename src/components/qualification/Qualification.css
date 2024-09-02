@@ -102,6 +102,25 @@
   gap:0.5rem;
 }
 
+.qualification__link {
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* Inherits the text color from the parent */
+  display: block; /* Ensures the link occupies the entire div area */
+}
+
+.qualification__link:hover .qualification__data {
+  animation: buzz 0.15s linear infinite;
+  cursor: pointer; /* Changes cursor to indicate it's clickable */
+}
+
+@keyframes buzz {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(2px); }
+  50% { transform: translateX(-2px); }
+  75% { transform: translateX(2px); }
+  100% { transform: translateX(0); }
+}
+
 @media only screen and (max-width: 768px) {
   .qualification__sections {
     display: block; 
