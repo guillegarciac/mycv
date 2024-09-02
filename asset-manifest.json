@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mycv/static/css/main.a145f3cb.css",
-    "main.js": "/mycv/static/js/main.69fb67bf.js",
+    "main.css": "/mycv/static/css/main.7f322c25.css",
+    "main.js": "/mycv/static/js/main.3650f263.js",
     "static/media/tremendo.jpg": "/mycv/static/media/tremendo.35476a806ceaae9f867a.jpg",
     "static/media/supercharge.jpg": "/mycv/static/media/supercharge.af4670e0aaac612cecd5.jpg",
     "static/media/atmineapp.jpg": "/mycv/static/media/atmineapp.f46a0b792e130197bcb0.jpg",
@@ -14,11 +14,11 @@
     "static/media/playground.jpg": "/mycv/static/media/playground.9f41b531a6f647ff8fdc.jpg",
     "static/media/hotelspeaker.jpg": "/mycv/static/media/hotelspeaker.8514dfb945c24e35c291.jpg",
     "index.html": "/mycv/index.html",
-    "main.a145f3cb.css.map": "/mycv/static/css/main.a145f3cb.css.map",
-    "main.69fb67bf.js.map": "/mycv/static/js/main.69fb67bf.js.map"
+    "main.7f322c25.css.map": "/mycv/static/css/main.7f322c25.css.map",
+    "main.3650f263.js.map": "/mycv/static/js/main.3650f263.js.map"
   },
   "entrypoints": [
-    "static/css/main.a145f3cb.css",
-    "static/js/main.69fb67bf.js"
+    "static/css/main.7f322c25.css",
+    "static/js/main.3650f263.js"
   ]
 }
