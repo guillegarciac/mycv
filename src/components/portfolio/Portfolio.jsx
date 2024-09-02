@@ -38,7 +38,7 @@ const Portfolio = () => {
       name: "Tremendo Bar Sant Cugat",
       url: "https://tremendo-bar.vercel.app",
       image: tremendo,
-      description: "React TailwindCSS Website for a local bar in Sant Cugat, Barcelona"
+      description: "Mobile First React TailwindCSS i18n Website for a local bar in Sant Cugat, Barcelona. Deployed on Vercel"
     },
     {
       name: "AI Review Response Service",
