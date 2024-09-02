@@ -121,7 +121,7 @@ const Qualification = () => {
                 </div>
               </a>
               <a
-                href="https://shiji.udemy.com/certificate/UC-497083d6-c242-4cb0-b0ba-8bdbe0ed43dd/"
+                href="https://www.udemy.com/certificate/UC-497083d6-c242-4cb0-b0ba-8bdbe0ed43dd/?fbclid=IwY2xjawFC4glleHRuA2FlbQIxMQABHavaTclRjAqxp7THAIhrNBz1gAEUWa4b_-_YhtO-DQoJ8h9jCzQWyaKi6A_aem_eLqoDkVhxfm9l6zpkbSuHQ"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="qualification__link"
