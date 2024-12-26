@@ -6,10 +6,17 @@ import supercharge from '../../assets/supercharge.jpg';
 import playground from '../../assets/playground.jpg';
 import tremendo from '../../assets/tremendo.jpg';
 import hotelspeaker from '../../assets/hotelspeaker.jpg';
+import carlota from '../../assets/carlotavilamala.jpg';
 
 
 const Portfolio = () => {
   const projects = [
+    {
+      name: "Hotel Software Solutions",
+      url: "https://insights.shijigroup.com/how-integrations-supercharge-hotel-software-solutions/",
+      image: supercharge,
+      description: "Breaking down exactly how integrations work and the role they play in the hospitality world - through APIs to help hoteliers work more efficiently through seamless technology solutions. "
+    },
     {
       name: "atmine-app (mobile only)",
       url: "https://atmine-app.netlify.app/",
@@ -23,12 +30,6 @@ const Portfolio = () => {
       description: "Launched this project to help developers, designers and productmanagers keeping their tools in one place while being able to discover and share with the community."
     },
     {
-      name: "Hotel Software Solutions",
-      url: "https://insights.shijigroup.com/how-integrations-supercharge-hotel-software-solutions/",
-      image: supercharge,
-      description: "Breaking down exactly how integrations work and the role they play in the hospitality world - through APIs to help hoteliers work more efficiently through seamless technology solutions. "
-    },
-    {
       name: "Multi Tenant Backoffice (wip)",
       url: "https://backoffice-git-dev-guillegarciacs-projects.vercel.app",
       image: playground,
@@ -36,7 +37,7 @@ const Portfolio = () => {
     },
     {
       name: "Tremendo Bar Sant Cugat",
-      url: "https://tremendo-bar.vercel.app",
+      url: "https://tremendosantcugat.com",
       image: tremendo,
       description: "Mobile First React TailwindCSS i18n Website for a local bar in Sant Cugat, Barcelona. Deployed on Vercel"
     },
@@ -45,6 +46,12 @@ const Portfolio = () => {
       url: "https://hotelspeaker.vercel.app",
       image: hotelspeaker,
       description: "NextJs application that helps hoteliers respond to reviews in a more efficient way. Model trained by Hotelspeaker."
+    },
+    {
+      name: "Carlota Vilamala Stylist Portfolio",
+      url: "https://carlotavilamala.com",
+      image: carlota,
+      description: "NextJs application for a local stylist portfolio website. Deployed on Vercel."
     }
   ];
 
