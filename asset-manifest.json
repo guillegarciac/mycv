@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/mycv/static/css/main.7f322c25.css",
-    "main.js": "/mycv/static/js/main.38dd22f8.js",
-    "static/media/tremendo.jpg": "/mycv/static/media/tremendo.35476a806ceaae9f867a.jpg",
+    "main.css": "/mycv/static/css/main.f7a0b3aa.css",
+    "main.js": "/mycv/static/js/main.cc1c57be.js",
+    "static/media/carlotavilamala.jpg": "/mycv/static/media/carlotavilamala.0ae49455923df434e536.jpg",
     "static/media/supercharge.jpg": "/mycv/static/media/supercharge.af4670e0aaac612cecd5.jpg",
     "static/media/atmineapp.jpg": "/mycv/static/media/atmineapp.f46a0b792e130197bcb0.jpg",
     "static/media/profilepicture-3.jpg": "/mycv/static/media/profilepicture-3.ead96433c72b17b3a855.jpg",
     "static/media/profilepicturenobg.png": "/mycv/static/media/profilepicturenobg.25fda832a1acab974a0f.png",
+    "static/media/tremendo.jpg": "/mycv/static/media/tremendo.35c7eae1e2751e0c1b0d.jpg",
     "static/media/cv.pdf": "/mycv/static/media/cv.667d0301a2628c29f3b4.pdf",
     "static/media/devaultapp.jpg": "/mycv/static/media/devaultapp.fee64143400b12175751.jpg",
     "static/media/profilepicture-1.jpg": "/mycv/static/media/profilepicture-1.7a138926247b77262f7f.jpg",
@@ -14,11 +15,11 @@
     "static/media/playground.jpg": "/mycv/static/media/playground.9f41b531a6f647ff8fdc.jpg",
     "static/media/hotelspeaker.jpg": "/mycv/static/media/hotelspeaker.8514dfb945c24e35c291.jpg",
     "index.html": "/mycv/index.html",
-    "main.7f322c25.css.map": "/mycv/static/css/main.7f322c25.css.map",
-    "main.38dd22f8.js.map": "/mycv/static/js/main.38dd22f8.js.map"
+    "main.f7a0b3aa.css.map": "/mycv/static/css/main.f7a0b3aa.css.map",
+    "main.cc1c57be.js.map": "/mycv/static/js/main.cc1c57be.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f322c25.css",
-    "static/js/main.38dd22f8.js"
+    "static/css/main.f7a0b3aa.css",
+    "static/js/main.cc1c57be.js"
   ]
 }
